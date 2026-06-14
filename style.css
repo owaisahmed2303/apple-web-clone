@@ -417,12 +417,13 @@ nav > .ul1{
 }
 
 footer{
+    /* display: flex; */
     justify-content: center;
     text-align: center;
     align-items: center;
     padding-left: 20%;
     padding-right: 25%;
-
+  
 }
 footer >#p1{
     color: #6F6F70;

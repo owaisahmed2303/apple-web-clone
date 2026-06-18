@@ -508,8 +508,8 @@ footer >#p1{
     
     .parent-combo >.combo {
       
-       width: 90vw;    
-        height: 40px;
+       width: 60%;    
+        height: 20px;
         margin-bottom: 5px;
         color: black;
     }

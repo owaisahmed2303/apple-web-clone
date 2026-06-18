@@ -501,6 +501,7 @@ footer >#p1{
         display: none;
     }
     .parent-combo {
+        margin-top: 25px;
         display: flex;
         flex-direction: column;
         /* padding: 20px; */
